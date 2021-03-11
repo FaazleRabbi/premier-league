@@ -1,0 +1,10 @@
+.team img{
+    width: 70%;
+    
+
+}
+.team{
+    border-radius: 10px;
+    border: 1px solid gray;
+    text-align: center;
+}
