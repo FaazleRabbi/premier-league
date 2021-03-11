@@ -10,7 +10,7 @@ const Header = () => {
       </div>
       <div className='bg-info p-4'>
         <h1 >Premier league 2021</h1>
-        <h6>Held on <span className="text-warning h4 bold">07 May</span></h6>
+        <h6>Held on <span className="text-warning h4 bold">07 May </span></h6>
       </div>
       <div>
         <img src={img} alt=""/>
